@@ -1,0 +1,8 @@
+submission:
+  track: 1
+  team_type: "solo"
+  main_entrypoint: "rank.py"
+  python_version: "3.10"
+  system_requirements:
+    max_memory_gb: 16
+    cpu_only: true
