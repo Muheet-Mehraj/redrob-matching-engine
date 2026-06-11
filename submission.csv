@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0081846,1,14.96972,"Excellent product fit with 7 years as a Lead AI Engineer at Razorpay. Proven background in Information Retrieval, Recommendation System matching Redrob's founding search-layer requirements."
+CAND_0002025,2,12.745172,"Excellent product fit with 6 years as a Senior AI Engineer at Apple. Proven background in Recommendation System, Re-Ranking matching Redrob's founding search-layer requirements. Open-source contributor (GitHub score 97/100)."
+CAND_0055905,3,12.69768,"Excellent product fit with 8 years as a Senior Machine Learning Engineer at Flipkart. Proven background in Information Retrieval, Reranking matching Redrob's founding search-layer requirements."
+CAND_0018499,4,12.105736,"Excellent product fit with 7 years as a Senior Machine Learning Engineer at Zomato. Proven background in Information Retrieval, Recommendation System matching Redrob's founding search-layer requirements. Open-source contributor (GitHub score 95/100)."
+CAND_0079387,5,11.637686,"Excellent product fit with 7 years as a AI Engineer at Microsoft. Proven background in Recommendation System, Bm25 matching Redrob's founding search-layer requirements. Open-source contributor (GitHub score 64/100)."
+CAND_0046064,6,10.98094,"Excellent product fit with 9 years as a Senior NLP Engineer at Salesforce. Proven background in Reranking, Ndcg matching Redrob's founding search-layer requirements. Open-source contributor (GitHub score 67/100)."
+CAND_0036184,7,10.777341,"Excellent product fit with 6 years as a Recommendation Systems Engineer at CRED. Proven background in Recommendation System, Bm25 matching Redrob's founding search-layer requirements."
+CAND_0011687,8,10.685088,"Excellent product fit with 8 years as a Senior NLP Engineer at Niramai. Proven background in Ndcg, Mrr matching Redrob's founding search-layer requirements. Open-source contributor (GitHub score 76/100)."
+CAND_0077337,9,10.432642,"Excellent product fit with 7 years as a Staff Machine Learning Engineer at Paytm. Proven background in Information Retrieval, Recommendation System matching Redrob's founding search-layer requirements. Open-source contributor (GitHub score 68/100)."
+CAND_0086022,10,10.238989,"Excellent product fit with 5 years as a Senior Applied Scientist at Sarvam AI. Proven background in Recommendation System, Reranking matching Redrob's founding search-layer requirements. Open-source contributor (GitHub score 75/100)."
+CAND_0052682,11,9.907043,Competent technical profile showing 7 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 72/100).
+CAND_0093912,12,9.62766,Competent technical profile showing 5 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 82/100).
+CAND_0030031,13,9.368702,Competent technical profile showing 6 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0007009,14,9.269382,Competent technical profile showing 8 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 69/100).
+CAND_0052328,15,8.986326,Competent technical profile showing 6 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 78/100).
+CAND_0041610,16,8.792595,Competent technical profile showing 7 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 52/100).
+CAND_0080766,17,8.783361,Competent technical profile showing 9 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0040887,18,8.729728,Competent technical profile showing 5 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0025640,19,8.615913,Competent technical profile showing 6 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0062247,20,8.606335,Competent technical profile showing 7 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 53/100).
+CAND_0020708,21,8.482314,Competent technical profile showing 4 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 84/100).
+CAND_0099806,22,8.399506,Competent technical profile showing 5 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 87/100).
+CAND_0036437,23,8.288948,Competent technical profile showing 5 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0042506,24,8.155271,Competent technical profile showing 4 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 64/100).
+CAND_0043228,25,8.089753,Competent technical profile showing 7 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0049538,26,8.08934,Competent technical profile showing 6 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 91/100).
+CAND_0046525,27,8.011301,Competent technical profile showing 6 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0071974,28,7.873236,Competent technical profile showing 8 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 83/100).
+CAND_0072660,29,7.79154,Competent technical profile showing 7 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0078042,30,7.509776,Competent technical profile showing 5 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 84/100).
+CAND_0027691,31,7.503754,Competent technical profile showing 6 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 58/100).
+CAND_0061655,32,7.382984,Competent technical profile showing 5 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 56/100).
+CAND_0010685,33,7.377815,Competent technical profile showing 7 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0053591,34,7.352675,Competent technical profile showing 5 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 76/100).
+CAND_0008425,35,7.329818,Competent technical profile showing 8 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 53/100). Challenge: Extended notice period of 90 days may impact rapid onboarding.
+CAND_0043860,36,7.313862,Competent technical profile showing 6 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0078492,37,7.213959,Competent technical profile showing 5 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0051292,38,7.159828,Competent technical profile showing 5 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 62/100).
+CAND_0074735,39,7.078889,Competent technical profile showing 6 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 88/100). Challenge: Extended notice period of 90 days may impact rapid onboarding.
+CAND_0088025,40,7.054872,Competent technical profile showing 9 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 75/100). Challenge: Extended notice period of 90 days may impact rapid onboarding.
+CAND_0041669,41,7.022934,Competent technical profile showing 8 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 71/100).
+CAND_0065195,42,6.938661,Competent technical profile showing 5 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 87/100).
+CAND_0050454,43,6.721252,Competent technical profile showing 7 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0039383,44,6.704648,Competent technical profile showing 7 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 86/100). Challenge: Extended notice period of 90 days may impact rapid onboarding.
+CAND_0068351,45,6.684318,Competent technical profile showing 6 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0044222,46,6.63697,Competent technical profile showing 8 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0075574,47,6.634263,Competent technical profile showing 6 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0005649,48,6.544339,Competent technical profile showing 7 years of experience. Fully qualified in specialized IR/search pipelines. Open-source contributor (GitHub score 81/100). Challenge: Extended notice period of 90 days may impact rapid onboarding.
+CAND_0005260,49,6.518222,Competent technical profile showing 5 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0060054,50,6.517599,Competent technical profile showing 6 years of experience. Fully qualified in specialized IR/search pipelines.
+CAND_0066999,51,6.50534,Adjacent technical profile with 6 years total experience as Recommendation Systems Engineer. Partial skill overlap with role requirements.
+CAND_0075439,52,6.493575,Adjacent technical profile with 4 years total experience as Machine Learning Engineer. Partial skill overlap with role requirements.
+CAND_0080534,53,6.483308,Adjacent technical profile with 4 years total experience as ML Engineer. Partial skill overlap with role requirements.
+CAND_0033445,54,6.442573,Adjacent technical profile with 7 years total experience as ML Engineer. Partial skill overlap with role requirements.
+CAND_0064326,55,6.44105,Adjacent technical profile with 8 years total experience as Search Engineer. Partial skill overlap with role requirements.
+CAND_0008239,56,6.411191,Adjacent technical profile with 4 years total experience as AI Engineer. Partial skill overlap with role requirements.
+CAND_0053695,57,6.408936,Adjacent technical profile with 6 years total experience as Recommendation Systems Engineer. Partial skill overlap with role requirements.
+CAND_0058688,58,6.396486,Adjacent technical profile with 7 years total experience as AI Engineer. Partial skill overlap with role requirements.
+CAND_0050876,59,6.393251,Adjacent technical profile with 6 years total experience as Applied ML Engineer. Partial skill overlap with role requirements. Challenge: Extended notice period of 90 days may impact rapid onboarding.
+CAND_0020877,60,6.319747,Adjacent technical profile with 5 years total experience as Applied ML Engineer. Partial skill overlap with role requirements.
+CAND_0037980,61,6.310662,Adjacent technical profile with 9 years total experience as Senior Applied Scientist. Partial skill overlap with role requirements.
+CAND_0037160,62,6.309614,Adjacent technical profile with 6 years total experience as Data Scientist. Partial skill overlap with role requirements.
+CAND_0053605,63,6.294033,Adjacent technical profile with 7 years total experience as Senior Software Engineer (ML). Partial skill overlap with role requirements.
+CAND_0069905,64,6.290281,Adjacent technical profile with 7 years total experience as Applied ML Engineer. Partial skill overlap with role requirements. Challenge: Extended notice period of 90 days may impact rapid onboarding.
+CAND_0039838,65,6.240786,Adjacent technical profile with 5 years total experience as Recommendation Systems Engineer. Partial skill overlap with role requirements. Challenge: Extended notice period of 90 days may impact rapid onboarding.
+CAND_0076163,66,6.14247,Adjacent technical profile with 7 years total experience as NLP Engineer. Partial skill overlap with role requirements.
+CAND_0081053,67,6.135712,Adjacent technical profile with 5 years total experience as NLP Engineer. Partial skill overlap with role requirements. Challenge: Extended notice period of 90 days may impact rapid onboarding.
+CAND_0006418,68,6.128748,Adjacent technical profile with 6 years total experience as Machine Learning Engineer. Partial skill overlap with role requirements.
+CAND_0020350,69,6.004352,Adjacent technical profile with 6 years total experience as AI Engineer. Partial skill overlap with role requirements.
+CAND_0054394,70,5.947658,Adjacent technical profile with 4 years total experience as Recommendation Systems Engineer. Partial skill overlap with role requirements.
+CAND_0029367,71,5.941092,Adjacent technical profile with 6 years total experience as Senior Data Scientist. Partial skill overlap with role requirements. Challenge: Extended notice period of 90 days may impact rapid onboarding.
+CAND_0033179,72,5.919878,Adjacent technical profile with 7 years total experience as AI Research Engineer. Partial skill overlap with role requirements.
+CAND_0044855,73,5.903982,Adjacent technical profile with 7 years total experience as Senior Data Scientist. Partial skill overlap with role requirements.
+CAND_0011162,74,5.889359,Adjacent technical profile with 6 years total experience as Recommendation Systems Engineer. Partial skill overlap with role requirements. Challenge: Extended notice period of 90 days may impact rapid onboarding.
+CAND_0081686,75,5.876471,Adjacent technical profile with 6 years total experience as Search Engineer. Partial skill overlap with role requirements.
+CAND_0098454,76,5.872532,Adjacent technical profile with 7 years total experience as AI Specialist. Partial skill overlap with role requirements.
+CAND_0042029,77,5.822287,Adjacent technical profile with 6 years total experience as Senior Data Scientist. Partial skill overlap with role requirements.
+CAND_0016659,78,5.763662,Adjacent technical profile with 4 years total experience as ML Engineer. Partial skill overlap with role requirements.
+CAND_0026942,79,5.745051,Adjacent technical profile with 6 years total experience as Junior ML Engineer. Partial skill overlap with role requirements.
+CAND_0005538,80,5.731625,Adjacent technical profile with 6 years total experience as Senior AI Engineer. Partial skill overlap with role requirements. Challenge: Extended notice period of 90 days may impact rapid onboarding.
+CAND_0097176,81,5.678378,Adjacent technical profile with 6 years total experience as ML Engineer. Partial skill overlap with role requirements.
+CAND_0068811,82,5.599104,Adjacent technical profile with 8 years total experience as Applied ML Engineer. Partial skill overlap with role requirements.
+CAND_0048558,83,5.590905,Adjacent technical profile with 7 years total experience as Data Scientist. Partial skill overlap with role requirements.
+CAND_0044883,84,5.589902,Adjacent technical profile with 6 years total experience as AI Engineer. Partial skill overlap with role requirements. Challenge: Extended notice period of 90 days may impact rapid onboarding.
+CAND_0018888,85,5.58869,Adjacent technical profile with 6 years total experience as AI Research Engineer. Partial skill overlap with role requirements.
+CAND_0087630,86,5.565237,Adjacent technical profile with 7 years total experience as AI Engineer. Partial skill overlap with role requirements.
+CAND_0037944,87,5.541038,Adjacent technical profile with 5 years total experience as Senior Data Scientist. Partial skill overlap with role requirements.
+CAND_0065786,88,5.531805,Adjacent technical profile with 5 years total experience as AI Specialist. Partial skill overlap with role requirements.
+CAND_0093547,89,5.503362,Adjacent technical profile with 3 years total experience as Senior Machine Learning Engineer. Partial skill overlap with role requirements.
+CAND_0074342,90,5.45507,Adjacent technical profile with 6 years total experience as Data Scientist. Partial skill overlap with role requirements.
+CAND_0030468,91,5.446654,Adjacent technical profile with 5 years total experience as Senior Applied Scientist. Partial skill overlap with role requirements.
+CAND_0037000,92,5.431295,Adjacent technical profile with 3 years total experience as Search Engineer. Partial skill overlap with role requirements.
+CAND_0054123,93,5.407246,Adjacent technical profile with 5 years total experience as Applied ML Engineer. Partial skill overlap with role requirements.
+CAND_0083879,94,5.383271,Adjacent technical profile with 7 years total experience as Machine Learning Engineer. Partial skill overlap with role requirements.
+CAND_0087744,95,5.381009,Adjacent technical profile with 4 years total experience as Senior Software Engineer (ML). Partial skill overlap with role requirements.
+CAND_0064331,96,5.340596,Adjacent technical profile with 4 years total experience as Senior Software Engineer (ML). Partial skill overlap with role requirements.
+CAND_0051004,97,5.339562,Adjacent technical profile with 5 years total experience as Senior Data Scientist. Partial skill overlap with role requirements.
+CAND_0042100,98,5.332207,Adjacent technical profile with 7 years total experience as Machine Learning Engineer. Partial skill overlap with role requirements. Challenge: Extended notice period of 90 days may impact rapid onboarding.
+CAND_0037566,99,5.309248,Adjacent technical profile with 7 years total experience as Machine Learning Engineer. Partial skill overlap with role requirements.
+CAND_0010149,100,5.300471,Adjacent technical profile with 7 years total experience as ML Engineer. Partial skill overlap with role requirements. Challenge: Extended notice period of 90 days may impact rapid onboarding.
